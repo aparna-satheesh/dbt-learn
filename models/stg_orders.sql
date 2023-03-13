@@ -4,7 +4,7 @@ with orders as (
         id as order_id,
         user_id as customer_id,
         order_date,
-        statusl
+        status
 
     from jaffle_shop_orders
 )
