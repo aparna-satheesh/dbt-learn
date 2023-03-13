@@ -3,7 +3,6 @@ version: 2
 sources:
   - name: jaffle_shop
     database: default
-    schema: jaffle_shop
     tables:
       - name: customers
       - name: orders
