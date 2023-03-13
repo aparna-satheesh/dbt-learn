@@ -1,1 +1,1 @@
-### Sample code along dbt tutorial
+### Repository contains files from the Sample dbt fundamentals Project
