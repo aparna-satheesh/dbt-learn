@@ -4,5 +4,5 @@ sources:
   - name: jaffle_shop
     database: default
     tables:
-      - name: customers
-      - name: orders
+      - name: jaffle_shop_customers
+      - name: jaffle_shop_orders
